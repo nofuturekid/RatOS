@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[4962],{3933:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/rant","name":"Rant","count":1,"permalink":"/blog/tags/rant"}')}}]);
