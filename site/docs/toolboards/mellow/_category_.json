@@ -1,5 +1,6 @@
 {
     "label": "Mellow",
     "collapsible": true,
-    "collapsed": false
+    "collapsed": false,
+    "position": 2
 }
